@@ -1,1 +1,1 @@
-# vote-api
+# Surauaev Nurbek
