@@ -1,0 +1,1 @@
+val List: List[String] = LazyList["as" ,"dasd"]
