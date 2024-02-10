@@ -1,1 +1,1 @@
-# Surauaev Nurbek
+# Suraubaev Nurbek
